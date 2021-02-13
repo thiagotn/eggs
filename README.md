@@ -1,6 +1,6 @@
-# eggs
+# perfect eggs
 
-A new Flutter project.
+Perfect Eggs App. Project following a Flutter course from https://balta.io
 
 ## Getting Started
 
